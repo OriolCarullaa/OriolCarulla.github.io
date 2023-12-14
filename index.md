@@ -18,11 +18,11 @@ Tengo experiencia en el mundo laboral, trabajé 12 meses en una empresa de alime
 
 ## Competencias personales
 Soy una persona con iniciativa, me gusta y me organizo bien trabajando en equipo. 
-Me considero una persona muy responsable, con iniciativa empresarial y con ideas innovadoras , cuando trabajo para una empresa siento como si fuese mia y desempeño mecanismos de mejora para que esta evolucione. 
+Me considero una persona muy responsable, con iniciativa empresarial y con ideas innovadoras, cuando trabajo para una empresa siento como si fuese mia y desempeño mecanismos de mejora para que esta evolucione. 
 
 
 ### Idiomas
-Castellano - Nivel Alto |
-Catalán - Nivel Alto
-Inglés - Nivel Medio
+Castellano - Nivel Alto,
+Catalán - Nivel Alto,
+Inglés - Nivel Medio,
 Francés - Nivel muy báscio
