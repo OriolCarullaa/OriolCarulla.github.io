@@ -22,7 +22,7 @@ Me considero una persona muy responsable, con iniciativa empresarial y con ideas
 
 
 ### Idiomas
-Castellano - Nivel Alto
+Castellano - Nivel Alto |
 Catalán - Nivel Alto
 Inglés - Nivel Medio
 Francés - Nivel muy báscio
