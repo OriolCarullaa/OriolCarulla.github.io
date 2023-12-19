@@ -1,4 +1,4 @@
-<img src="[https://github.com/iBrohl/ibrohl.github.io/blob/main/imagen_2022-04-25_221644148.png](https://mail.google.com/mail/u/0/#inbox/KtbxLrjdtQQkDJxvRFVKLKvfzmLdCBBvSq?projector=1&messagePartId=0.1)">
+<img src="https://github.com/iBrohl/ibrohl.github.io/blob/main/imagen_2022-04-25_221644148.png">
 
 # **Oriol Carulla Vives**
 ## Objetivo Profesional
