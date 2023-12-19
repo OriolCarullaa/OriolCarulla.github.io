@@ -1,4 +1,4 @@
-<img src="file:///C:/Users/Alumno/Downloads/1702973817704%20(1).jpg">
+<img src="(https://github.com/OriolCarullaa/OriolCarulla.github.io/blob/main/0.jpg)">
 
 # **Oriol Carulla Vives**
 ## Objetivo Profesional
